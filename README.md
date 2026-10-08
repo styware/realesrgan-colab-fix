@@ -52,7 +52,7 @@ Recomendación: `realesr-animevideov3` para animación/ilustración y `realesr-g
 
 - Runtime de Colab: **2026.07** (la más reciente al 7 de octubre de 2026)
 - GPU: L4
-- Python: **X.XX** *(copia aquí la versión que imprime la celda 1)*
+- Python: 3.13
 
 Colab actualiza sus imágenes con frecuencia. Si algo falla en el futuro, abre un *issue* con el error completo y la versión del runtime.
 
